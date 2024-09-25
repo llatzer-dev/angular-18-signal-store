@@ -1,4 +1,3 @@
-# angular-18-signal-store
 
 # Optimización del Manejo de Estados en Aplicaciones Frontend
 
