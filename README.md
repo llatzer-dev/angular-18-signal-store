@@ -36,14 +36,37 @@ Este patrón se puede implementar con diferentes tecnologías como Zustand, RxJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
+# Instalación
+
+### Clonar repositorio
+
+~~~
+git clone https://github.com/llatzer-dev/angular-18-signal-store.git 
+~~~
+
 ### Instalar dependencias
 
-Run `npm i`
+Ejecuta 
+~~~
+npm install
+~~~
 
 ### Levantar entorno de desarrollo
 
-Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Ejecuta
+~~~
+npm run start
+~~~
+
+Navega a 
+~~~
+http://localhost:4200/
+~~~
 
 ### Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Ejecuta 
+~~~
+ng build
+~~~
+El build se guardará en el directorio `dist/`.
