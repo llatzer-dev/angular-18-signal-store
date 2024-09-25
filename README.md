@@ -34,7 +34,7 @@ El concepto de **Single Source of Truth (SSOT)** es fundamental en este enfoque.
 
 Este patrón se puede implementar con diferentes tecnologías como Zustand, RxJS, Redux, o cualquier manejador de estado global. En nuestro caso, usaremos **NGRX SignalStore** para manejar el estado en Angular.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+
 
 # Instalación
 
